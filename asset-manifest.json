@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6654e992.css",
+    "main.js": "/static/js/main.9ca7f9be.js",
+    "static/js/787.bf4914cc.chunk.js": "/static/js/787.bf4914cc.chunk.js",
+    "static/media/ekom.jpg": "/static/media/ekom.61a5e115b766b9c8c9d0.jpg",
+    "static/media/silvero.jpg": "/static/media/silvero.3f605bb480bad964a8f5.jpg",
+    "static/media/avto.jpg": "/static/media/avto.94e30e4fdb6abcac168b.jpg",
+    "static/media/feniks.jpg": "/static/media/feniks.559b3dd41d06c5240ca7.jpg",
+    "static/media/marfin.jpg": "/static/media/marfin.33dac3750d0abc1b67b2.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/school.svg": "/static/media/school.a41655f6d5350015803153c7410cef6a.svg",
+    "static/media/codepen.svg": "/static/media/codepen.9c6d9e9b6bd56265f9222e3adc8e57ab.svg",
+    "static/media/work.svg": "/static/media/work.3710b62484ed638074240e99317c6c60.svg",
+    "index.html": "/index.html",
+    "main.6654e992.css.map": "/static/css/main.6654e992.css.map",
+    "main.9ca7f9be.js.map": "/static/js/main.9ca7f9be.js.map",
+    "787.bf4914cc.chunk.js.map": "/static/js/787.bf4914cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6654e992.css",
+    "static/js/main.9ca7f9be.js"
+  ]
+}
