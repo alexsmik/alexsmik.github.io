@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7a0aa0fd.css",
-    "main.js": "/static/js/main.864926d3.js",
+    "main.js": "/static/js/main.0e349031.js",
     "static/media/poligraf4.jpg": "/static/media/poligraf4.d878dde324d1e91ac0e3.jpg",
     "static/media/sp.jpg": "/static/media/sp.bd1b99714e8471b8c317.jpg",
     "static/media/poligraf1.jpg": "/static/media/poligraf1.384f5bacc915c25775fe.jpg",
@@ -14,6 +14,7 @@
     "static/media/mebrest.jpg": "/static/media/mebrest.d8225b613426d3aeea28.jpg",
     "static/media/marfin.jpg": "/static/media/marfin.33dac3750d0abc1b67b2.jpg",
     "static/media/poligraf6.jpg": "/static/media/poligraf6.1f35165b2b60886764b5.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/region.svg": "/static/media/region.97bf7e1f9458e77d4561b27fb788c11a.svg",
     "static/media/school.svg": "/static/media/school.a41655f6d5350015803153c7410cef6a.svg",
     "static/media/work.svg": "/static/media/work.3710b62484ed638074240e99317c6c60.svg",
@@ -24,10 +25,10 @@
     "static/media/camera.svg": "/static/media/camera.315e2be4660a8bef16d2b92459ee8651.svg",
     "static/media/fl.svg": "/static/media/fl.95422b8f8bc191cd94245714fdfeb82a.svg",
     "main.7a0aa0fd.css.map": "/static/css/main.7a0aa0fd.css.map",
-    "main.864926d3.js.map": "/static/js/main.864926d3.js.map"
+    "main.0e349031.js.map": "/static/js/main.0e349031.js.map"
   },
   "entrypoints": [
     "static/css/main.7a0aa0fd.css",
-    "static/js/main.864926d3.js"
+    "static/js/main.0e349031.js"
   ]
 }
