@@ -1,10 +1,10 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { FaBars } from 'react-icons/fa';
 import { links, social } from './links';
-import logo from '../../logo.svg';
+// import logo from '../../logo.svg';
 // import {Link} from "react-scroll";
-import { Link, useLocation } from "react-router-dom";
-import Flag from "react-world-flags";
+import { Link, useLocation } from 'react-router-dom';
+import Flag from 'react-world-flags';
 // import { Link } from "react-router";
 
 // import styled from 'styled-components';
@@ -37,19 +37,19 @@ const Navbar = () => {
   // destructuring pathname from location
   const { pathname, pageName } = location;
   // Javascript split method to get the name of the path in array
-  const splitLocation = pathname.split("/");
+  const splitLocation = pathname.split('/');
   // toggle language
   const enlang = `/en/${pageName}`;
   return (
     <nav>
-      <div className='nav-center'>
-        <div className='nav-header'>
-          <a href='/' className='amLogo'>
-            `alexsmik` <br/>
+      <div className="nav-center">
+        <div className="nav-header">
+          <a href="/" className="amLogo">
+            `alexsmik` <br />
             <i>Design, Develop</i>
           </a>
           {/*<img src={logo} className='logo' alt='logo' />*/}
-          <button className='nav-toggle' onClick={toggleLinks}>
+          <button className="nav-toggle" onClick={toggleLinks}>
             <FaBars />
           </button>
         </div>
@@ -66,17 +66,28 @@ const Navbar = () => {
         {/*  </ul>*/}
         {/*</div>*/}
 
-        <div className='links-container' ref={linksContainerRef}>
-          <ul className='links' ref={linksRef}>
-
+        <div className="links-container" ref={linksContainerRef}>
+          <ul className="links" ref={linksRef}>
             <li>
-              <Link to="/" className={splitLocation[1] === "" ? "active" : ""}>Проекты</Link>
+              <Link to="/" className={splitLocation[1] === '' ? 'active' : ''}>
+                Проекты
+              </Link>
             </li>
             <li>
-              <Link to="resume" className={splitLocation[1] === "resume" ? "active" : ""}>Резюме</Link>
+              <Link
+                to="resume"
+                className={splitLocation[1] === 'resume' ? 'active' : ''}
+              >
+                Резюме
+              </Link>
             </li>
             <li>
-              <Link to="contact" className={splitLocation[1] === "contact" ? "active" : ""}>Контакты</Link>
+              <Link
+                to="contact"
+                className={splitLocation[1] === 'contact' ? 'active' : ''}
+              >
+                Контакты
+              </Link>
             </li>
 
             {/*{links.map((link) => {*/}
@@ -138,10 +149,9 @@ const Navbar = () => {
             {/*    Контакты*/}
             {/*  </Link>*/}
             {/*</li>*/}
-
           </ul>
         </div>
-        <ul className='social-icons'>
+        <ul className="social-icons">
           {social.map((socialIcon) => {
             const { id, url, icon } = socialIcon;
             return (

@@ -1,6 +1,7 @@
 {
-  "name": "portfolio-up2",
+  "name": "alexsmik.github.io",
   "version": "0.1.0",
+  "homepage": "https://alexsmik.github.io/",
   "private": true,
   "dependencies": {
     "@formspark/use-formspark": "^0.1.38",
@@ -27,7 +28,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
@@ -44,6 +47,7 @@
   "devDependencies": {
     "@react-icons/all-files": "^4.1.0",
     "eslint": "^5.16.0",
+    "gh-pages": "^3.2.3",
     "prop-types": "^15.8.1",
     "react-router-dom": "^6.3.0",
     "react-to-print": "^2.14.6"
