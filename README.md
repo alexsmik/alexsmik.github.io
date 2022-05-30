@@ -1,2 +1,3 @@
 # alexsmik.github.io
-Ok
+
+[Projects](https://alexsmik.github.io)
