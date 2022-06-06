@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd825600.css",
+    "main.js": "/static/js/main.9612d0c9.js",
+    "static/media/kbabru.jpg": "/static/media/kbabru.24c0c3726823cbb62bd7.jpg",
+    "static/media/poligraf4.jpg": "/static/media/poligraf4.d878dde324d1e91ac0e3.jpg",
+    "static/media/sp.jpg": "/static/media/sp.bd1b99714e8471b8c317.jpg",
+    "static/media/poligraf1.jpg": "/static/media/poligraf1.384f5bacc915c25775fe.jpg",
+    "static/media/ekom.jpg": "/static/media/ekom.61a5e115b766b9c8c9d0.jpg",
+    "static/media/silvero.jpg": "/static/media/silvero.3f605bb480bad964a8f5.jpg",
+    "static/media/avto.jpg": "/static/media/avto.94e30e4fdb6abcac168b.jpg",
+    "static/media/sverch.jpg": "/static/media/sverch.4e552903b8947c97ba45.jpg",
+    "static/media/feniks.jpg": "/static/media/feniks.559b3dd41d06c5240ca7.jpg",
+    "static/media/vorota.jpg": "/static/media/vorota.ad54bba6e76469d1ab98.jpg",
+    "static/media/shoppingCart.jpg": "/static/media/shoppingCart.058bc727b2a020a0e2c0.jpg",
+    "static/media/mebrest.jpg": "/static/media/mebrest.d8225b613426d3aeea28.jpg",
+    "static/media/marfin.jpg": "/static/media/marfin.33dac3750d0abc1b67b2.jpg",
+    "static/media/poligraf6.jpg": "/static/media/poligraf6.1f35165b2b60886764b5.jpg",
+    "static/media/region.svg": "/static/media/region.97bf7e1f9458e77d4561b27fb788c11a.svg",
+    "static/media/school.svg": "/static/media/school.a41655f6d5350015803153c7410cef6a.svg",
+    "static/media/work.svg": "/static/media/work.3710b62484ed638074240e99317c6c60.svg",
+    "index.html": "/index.html",
+    "static/media/phone.svg": "/static/media/phone.eec9c518e05c1d67186bc92a3d771873.svg",
+    "static/media/print.svg": "/static/media/print.7c1a5608cb943ae005ca8c3f2890e9e8.svg",
+    "static/media/mail.svg": "/static/media/mail.d8309d70585733120c3c55d13696923f.svg",
+    "static/media/camera.svg": "/static/media/camera.315e2be4660a8bef16d2b92459ee8651.svg",
+    "static/media/fl.svg": "/static/media/fl.95422b8f8bc191cd94245714fdfeb82a.svg",
+    "main.cd825600.css.map": "/static/css/main.cd825600.css.map",
+    "main.9612d0c9.js.map": "/static/js/main.9612d0c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd825600.css",
+    "static/js/main.9612d0c9.js"
+  ]
+}
