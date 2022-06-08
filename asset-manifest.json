@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cd825600.css",
-    "main.js": "/static/js/main.1a55e5e9.js",
+    "main.js": "/static/js/main.370c431f.js",
     "static/media/kbabru.jpg": "/static/media/kbabru.24c0c3726823cbb62bd7.jpg",
     "static/media/poligraf4.jpg": "/static/media/poligraf4.d878dde324d1e91ac0e3.jpg",
     "static/media/sp.jpg": "/static/media/sp.bd1b99714e8471b8c317.jpg",
@@ -26,10 +26,10 @@
     "static/media/camera.svg": "/static/media/camera.315e2be4660a8bef16d2b92459ee8651.svg",
     "static/media/fl.svg": "/static/media/fl.95422b8f8bc191cd94245714fdfeb82a.svg",
     "main.cd825600.css.map": "/static/css/main.cd825600.css.map",
-    "main.1a55e5e9.js.map": "/static/js/main.1a55e5e9.js.map"
+    "main.370c431f.js.map": "/static/js/main.370c431f.js.map"
   },
   "entrypoints": [
     "static/css/main.cd825600.css",
-    "static/js/main.1a55e5e9.js"
+    "static/js/main.370c431f.js"
   ]
 }
